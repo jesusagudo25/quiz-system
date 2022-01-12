@@ -1,0 +1,28 @@
+Cantidad de practicas completadas: 19
+Tiempo maximo en resolver: 50.8
+Tiempo minimo en resolver: 6.1
+Cantidad de estudiantes por puntajes correctos:
+Puntos obtenidos	Cant. de estudiantes
+10				2
+9				2
+8				3
+7				1
+6				3
+5				2
+4				1
+3				2
+2				1
+1				0
+0				2
+Estadística de aciertos y fallas:
+Pregunta	Cantidad de aciertos	Cantidad de fallas
+1			11			8
+2			7			12
+3			10			9
+4			11			8
+5			12			7
+6			12			7
+7			11			8
+8			9			10
+9			13			6
+10			13			6
